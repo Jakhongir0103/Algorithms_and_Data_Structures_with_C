@@ -1,0 +1,7 @@
+4 2
+gnd 0
+resistor 35
+diode 60
+transistor 78
+gnd 94
+inductor 112
